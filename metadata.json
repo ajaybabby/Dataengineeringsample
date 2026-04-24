@@ -1,0 +1,6 @@
+{
+  "name": "DataFlow: Data Engineering Sandbox",
+  "description": "An interactive learning environment for data engineering pipelines, demonstrating Source, Ingestion, Processing (Spark/Python), Storage (SQL), and Visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
